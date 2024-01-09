@@ -25,13 +25,13 @@ Also I conduct regression, research and usability testing.
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
 ## My Projects
-### [!WEB and API project](https://github.com/KorolevaEka/final-diplom)
-### [!Mobile](https://github.com/KorolevaEka/mobile-tests)
+### [WEB and API project](https://github.com/KorolevaEka/final-diplom)
+### [Mobile](https://github.com/KorolevaEka/mobile-tests)
 
 ## My Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VadimTolstov&theme=tokyonight" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimTolstov&theme=tokyonight" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VadimTolstov&theme=tokyonight" alt="Most Commit Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimTolstov&theme=tokyonight" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KorolevaEka&theme=tokyonight" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KorolevaEka&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KorolevaEka&theme=tokyonight" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KorolevaEka&theme=tokyonight" alt="Repos Per Language">
 </p>
